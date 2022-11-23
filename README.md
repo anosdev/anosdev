@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/117834164/201926519-2bcf7043-0480-4432-9ab0-cb90bd5d5673.svg">
+<img src="https://user-images.githubusercontent.com/117834164/203566506-287e9d6c-ae47-4083-b611-fa2c9764902d.svg">
 
 | My Profile |
 | --- |
